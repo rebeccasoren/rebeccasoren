@@ -1,4 +1,14 @@
-### Hi there 👋
+![Header image]
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+[![Linkedin Badge](https://img.shields.io/badge/-RebeccaShrutiSoren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecca-shruti-soren/)](https://www.linkedin.com/in/rebecca-shruti-soren/)
+[![Gmail Badge](https://img.shields.io/badge/-sorenrebeccashruti@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sorenrebeccashruti@gmail.com)](mailto:sorenrebeccashruti@gmail.com)
+
+## ⚡ Domains:
+- Data Science
+- Blockchain
+- Web Development
 
 <!--
 **rebeccasoren/rebeccasoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
